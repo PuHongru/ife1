@@ -1,0 +1,38 @@
+.top{
+    width: 100%;
+    background-color: darksalmon;
+}
+#imgstyle{
+    list-style: none;
+}
+.img1{
+    display: block;
+    clear: both;
+}
+#tb{
+    border-collapse: collapse;
+    width: auto;
+}
+#tb th{
+    border: 1px solid black;
+}
+#tb td{
+    border: 1px solid black;
+}
+.td1{
+    width: auto;
+}
+.td2{
+    width: auto;
+}
+.td2 p{
+    font-size: x-small;
+    color: red;
+    display: inline;
+}
+#tdsubmit{
+    text-align: center;
+}
+.bottom h6{
+    text-align: center;
+}
